@@ -1,0 +1,27 @@
+.header{background-color: #00a9e1;
+    color: #ffffff;
+    font-size: 20px;
+    min-height: 80px;
+    padding: 2%;
+}
+body{padding-top: 50px;}
+
+.main_div{border: 1px solid #00A9E1;min-height: 300px;}
+.left_div{ box-sizing: border-box;
+    min-height: 225px;
+    padding: 75px 20px 0 30px;}
+.right_div{ border-left: 1px solid lightgray;
+    box-sizing: border-box;
+    margin-top: 20px;
+    min-height: 225px;
+    padding: 20px;}
+
+.footer{ border-top: 1px solid lightgray;
+    min-height: 100px;
+    padding-top: 3.5%;
+margin-top: 20px;
+background-color: #F5F5F5;}
+
+.btn-label {position: relative;left: -12px;display: inline-block;padding: 6px 12px;background: rgba(0,0,0,0.15);border-radius: 3px 0 0 3px;}
+.btn-labeled {padding-top: 0;padding-bottom: 0;}
+.btn { margin-bottom:10px; }
